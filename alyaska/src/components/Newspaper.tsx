@@ -40,7 +40,7 @@ export const Newspaper: React.FC<{name: string; date: string; headline: string; 
 					<span>Цѣна 5 коп.</span>
 				</div>
 				<div style={{fontFamily: playfair, fontWeight: 900, fontSize: 64, lineHeight: 1.05, textAlign: 'center', margin: '20px 0'}}>{headline}</div>
-				<div style={{columns: 2, columnGap: 40, fontFamily: playfair, fontSize: 24, lineHeight: 1.4, textAlign: 'justify'}}>
+				<div style={{fontFamily: playfair, fontSize: 30, lineHeight: 1.45, textAlign: 'center', padding: '0 30px'}}>
 					{lead}
 				</div>
 			</div>

@@ -14,7 +14,8 @@ import {RU, RU_DIM, Shell, UK, UK_DIM, US_DIM, useSaleColor} from './common';
 const ID = 's03';
 const P = PLACES;
 
-const baseFills = {alaska: RU, '643': RU_DIM, '124': UK_DIM, usa48: US_DIM};
+// before 1867: only Russian territories are coloured, the rest stays neutral
+const baseFills = {alaska: RU, '643': RU_DIM};
 
 const SaleMap: React.FC = () => {
 	const fill = useSaleColor(40, 110);
@@ -23,7 +24,7 @@ const SaleMap: React.FC = () => {
 		<>
 			<VectorMap
 				view="bering"
-				fills={{...baseFills, alaska: fill, usa48: C.teal}}
+				fills={{...baseFills, alaska: fill, usa48: C.teal, '124': UK_DIM}}
 				outline={interpolate(f, [0, 40], [0, 1], {extrapolateRight: 'clamp'})}
 				camera={{from: {k: 1}, to: {k: 1.25, lon: -140, lat: 60}, at: 0, dur: 420}}
 				labels={[
@@ -84,7 +85,7 @@ export const Scene03: React.FC = () => {
 						render: () => (
 							<VectorMap
 								view="pacific"
-								fills={baseFills}
+								fills={{...baseFills, alaska: RU, '643': RU}}
 								lines={[{coords: [P.sitka, [-130, 48], P.fortRoss], at: 10, dur: 60, arrow: true}]}
 								labels={[
 									{text: 'Ново-Архангельск (Ситка)', lon: P.sitka[0], lat: P.sitka[1], at: 5, align: 'right', size: 24},

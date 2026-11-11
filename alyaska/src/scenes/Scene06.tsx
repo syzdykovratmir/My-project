@@ -4,6 +4,7 @@ import {Beats} from '../components/Beats';
 import {BigText, Cards} from '../components/Cards';
 import {ChapterLabel, ModeLabel, Tag} from '../components/Overlay';
 import {Title} from '../components/Title';
+import {PhotoFrame} from '../components/PhotoFrame';
 import {PLACES, VectorMap} from '../components/VectorMap';
 import {at, scene} from '../timeline';
 import {C, montserrat} from '../theme';
@@ -108,6 +109,15 @@ export const Scene06: React.FC = () => {
 								<Mini n="3" title="Освоение" sub="порты, переселенцы — нужны деньги и люди" fills={{...base, alaska: RU}} x={1300} delay={at(ID, 'Третий') - sc} dots={[PLACES.sitka, PLACES.kodiak, PLACES.anchorage]} />
 								<Tag text="схема · предположения" />
 							</AbsoluteFill>
+						),
+					},
+					{
+						from: at(ID, 'нужны'),
+						render: (life) => (
+							<>
+								<PhotoFrame id="anchorage1915" x={600} life={life} maxW={780} maxH={520} tilt={-1.5} caption="Реальность: так США строили Анкоридж, 1915" />
+								<PhotoFrame id="railroad" x={1330} life={life} maxW={700} maxH={520} tilt={1.5} delay={30} caption="Аляскинская железная дорога, 1916" />
+							</>
 						),
 					},
 					{

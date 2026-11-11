@@ -42,14 +42,15 @@ const countries = (res: '50m' | '10m'): F[] => {
 
 /* ---------- views ---------- */
 
-export type View = {rotate: [number, number]; scale: number; res: '50m' | '10m'};
+export type View = {rotate: [number, number]; scale: number; res: '50m' | '10m'; only?: string[]};
 export const VIEWS: Record<string, View> = {
 	// Chukotka + Alaska + NW Canada, Bering Strait in the middle
 	bering: {rotate: [158, -60], scale: 1650, res: '50m'},
 	// North Pacific: Kamchatka - Alaska - California (Fort Ross)
 	pacific: {rotate: [155, -50], scale: 1050, res: '50m'},
 	// Bering Strait close-up (Diomede islands)
-	strait: {rotate: [169, -65.8], scale: 14000, res: '10m'},
+	// (far-away countries invert at this zoom, so only the two neighbours are drawn)
+	strait: {rotate: [169, -65.8], scale: 22000, res: '10m', only: ['643', 'alaska']},
 	// Alaska + Yukon (gold, oil, pipeline)
 	alaska: {rotate: [148, -62], scale: 2600, res: '50m'},
 	// Alaska - Siberia (ALSIB route)
@@ -128,7 +129,11 @@ export const VectorMap: React.FC<Props & {sea?: boolean}> = ({
 	const path = useMemo(() => geoPath(proj), [proj]);
 	const feats = countries(v.res);
 	const paths = useMemo(
-		() => feats.map((f) => ({id: String(f.id), d: path(f) ?? ''})).filter((p) => p.d),
+		() =>
+			feats
+				.filter((f) => String(f.id) !== '010' && (!v.only || v.only.includes(String(f.id))))
+				.map((f) => ({id: String(f.id), d: path(f) ?? ''}))
+				.filter((p) => p.d),
 		[path],
 	);
 	const alaskaD = useMemo(() => paths.find((p) => p.id === 'alaska')?.d ?? '', [paths]);

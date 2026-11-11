@@ -20,9 +20,9 @@ const Col: React.FC<{title: string; text: string; color: string; delay: number; 
 			style={{
 				position: 'absolute',
 				left: x,
-				top: 270,
+				top: 300,
 				width: 520,
-				height: 520,
+				height: 400,
 				background: 'rgba(17,26,60,0.92)',
 				borderTop: `12px solid ${color}`,
 				borderRadius: 14,
@@ -33,7 +33,7 @@ const Col: React.FC<{title: string; text: string; color: string; delay: number; 
 			}}
 		>
 			<div style={{fontFamily: montserrat, fontWeight: 800, fontSize: 40, color}}>{title}</div>
-			<div style={{fontFamily: montserrat, fontWeight: 600, fontSize: 32, color: C.white, marginTop: 26, lineHeight: 1.35}}>{text}</div>
+			<div style={{fontFamily: montserrat, fontWeight: 600, fontSize: 38, color: C.white, marginTop: 26, lineHeight: 1.35}}>{text}</div>
 		</div>
 	);
 };

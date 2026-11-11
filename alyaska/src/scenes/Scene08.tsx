@@ -84,12 +84,12 @@ export const Scene08: React.FC = () => {
 								fills={{alaska: US, '643': RU}}
 								lines={[{coords: [[-168.98, 66.5], [-168.98, 65.0]], at: 20, dur: 50, color: C.white, width: 2}]}
 								labels={[
-									{text: 'Большой Диомид (Россия)', lon: P.bigDiomede[0], lat: P.bigDiomede[1] + 0.03, at: at(ID, 'Большой') - at(ID, 'холодная'), align: 'right', color: C.red, size: 28},
-									{text: 'Малый Диомид (США)', lon: P.littleDiomede[0], lat: P.littleDiomede[1] - 0.03, at: at(ID, 'Малый') - at(ID, 'холодная'), color: C.teal, size: 28},
-									{text: '< 4 км', lon: -168.99, lat: 65.73, at: at(ID, 'Малый') - at(ID, 'холодная') + 30, dot: false, color: C.gold, size: 34, align: 'center'},
-									{text: 'граница', lon: -168.98, lat: 66.05, at: 50, dot: false, color: C.white, size: 20, align: 'center', italic: true},
+									{text: 'Большой Диомид (Россия)', lon: P.bigDiomede[0], lat: P.bigDiomede[1] + 0.01, at: at(ID, 'Большой') - at(ID, 'холодная'), align: 'right', color: C.red, size: 28},
+									{text: 'Малый Диомид (США)', lon: P.littleDiomede[0], lat: P.littleDiomede[1] - 0.01, at: at(ID, 'Малый') - at(ID, 'холодная'), color: C.teal, size: 28},
+									{text: '< 4 км', lon: -168.99, lat: 65.71, at: at(ID, 'Малый') - at(ID, 'холодная') + 30, dot: false, color: C.gold, size: 34, align: 'center'},
+									{text: 'граница', lon: -168.98, lat: 65.86, at: 50, dot: false, color: C.white, size: 20, align: 'center', italic: true},
 								]}
-								camera={{from: {k: 0.85}, to: {k: 1.05}, at: 0, dur: 400}}
+								camera={{from: {k: 1}, to: {k: 3.2, lon: -168.99, lat: 65.77}, at: 10, dur: 160}}
 								note="реальная граница · схема"
 							/>
 						),
@@ -103,7 +103,7 @@ export const Scene08: React.FC = () => {
 								fills={{alaska: RU, '643': RU, '124': UK, usa48: US_DIM}}
 								lines={[{coords: [[-141, 69.6], [-141, 60.3]], at: 10, dur: 50, color: C.white, width: 5}]}
 								labels={[
-									{text: 'граница СССР и Канады?', lon: -141, lat: 65, at: 40, color: C.gold, size: 28},
+									{text: 'граница СССР и Канады?', lon: -141, lat: 65, at: 40, color: C.white, size: 30},
 									{text: 'СССР', lon: -152, lat: 64.5, dot: false, size: 40, align: 'center', at: 0},
 								]}
 								note="реконструкция · схема"

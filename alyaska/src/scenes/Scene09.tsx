@@ -61,7 +61,7 @@ export const Scene09: React.FC = () => {
 									{text: 'пролив Шелихова', lon: -154.5, lat: 57.6, at: 25, size: 22, color: C.gold, align: 'right'},
 									{text: 'о-ва Прибылова', lon: -170.2, lat: 57.2, at: 35, size: 22, color: C.gold},
 									{text: 'Коцебу', lon: -162.6, lat: 66.9, at: 45, size: 22, color: C.gold},
-									{text: 'Врангель', lon: -132.4, lat: 56.47, at: 55, size: 22, color: C.gold},
+									{text: 'Врангель', lon: -132.4, lat: 56.47, at: 55, size: 22, color: C.gold, dy: 34},
 								]}
 								note="русские названия на карте Аляски"
 							/>

@@ -43,6 +43,7 @@ export const Scene07: React.FC = () => {
 							/>
 						),
 					},
+					{from: at(ID, 'Важная'), render: (life) => <PhotoFrame id="dawson" life={life} sepia maxW={1150} />},
 					{
 						from: at(ID, 'отправились'),
 						render: () => (

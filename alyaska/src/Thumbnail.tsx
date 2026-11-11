@@ -12,12 +12,12 @@ export const Thumbnail: React.FC = () => (
 				fills={{alaska: C.red, '643': '#5A1E28', '124': '#3A3F5C', usa48: '#3A3F5C'}}
 				outline={1}
 				outlineColor={C.gold}
-				camera={{from: {k: 1.25, lon: -165, lat: 63}, to: {k: 1.25, lon: -165, lat: 63}}}
+				camera={{from: {k: 1.3, lon: -160, lat: 62}, to: {k: 1.3, lon: -160, lat: 62}}}
 				showScale={false}
 				showCompass={false}
 			/>
 		</div>
-		<AbsoluteFill style={{background: 'linear-gradient(90deg, rgba(7,12,32,0.95) 0%, rgba(7,12,32,0.75) 40%, rgba(7,12,32,0) 70%)'}} />
+		<AbsoluteFill style={{background: 'linear-gradient(90deg, rgba(7,12,32,0.95) 0%, rgba(7,12,32,0.7) 35%, rgba(7,12,32,0) 55%)'}} />
 		<div style={{position: 'absolute', left: 56, top: 120, width: 640, fontFamily: montserrat, fontWeight: 800, color: C.white, fontSize: 82, lineHeight: 1.02, textTransform: 'uppercase', textShadow: '0 4px 14px rgba(0,0,0,0.8)'}}>
 			Что если <span style={{color: C.red}}>Аляска</span> осталась бы <span style={{color: C.gold}}>нашей?</span>
 		</div>

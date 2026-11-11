@@ -20,12 +20,12 @@ const HookMap: React.FC<{question?: boolean}> = ({question}) => {
 	return (
 		<AbsoluteFill>
 			{/* black & white Sitka photos behind the map */}
-			<Img src={photoSrc('castlehill')} style={{position: 'absolute', left: -40, top: 0, width: 1100, opacity: 0.22, filter: 'grayscale(1) contrast(1.1)'}} />
-			<Img src={photoSrc('sitka1880')} style={{position: 'absolute', right: -60, bottom: 0, width: 1150, opacity: 0.22, filter: 'grayscale(1) contrast(1.1)'}} />
+			<Img src={photoSrc('castlehill')} style={{position: 'absolute', left: -80, top: -40, width: 1200, opacity: 0.3, filter: 'grayscale(1) contrast(1.1)', maskImage: 'radial-gradient(ellipse at center, black 35%, transparent 72%)', WebkitMaskImage: 'radial-gradient(ellipse at center, black 35%, transparent 72%)', }} />
+			<Img src={photoSrc('sitka1880')} style={{position: 'absolute', right: -80, bottom: -40, width: 1200, opacity: 0.3, filter: 'grayscale(1) contrast(1.1)', maskImage: 'radial-gradient(ellipse at center, black 35%, transparent 72%)', WebkitMaskImage: 'radial-gradient(ellipse at center, black 35%, transparent 72%)', }} />
 			<VectorMap
 				view="bering"
 				sea={false}
-				opacity={0.93}
+				opacity={0.9}
 				fills={{alaska: fill, '643': RU_DIM, '124': UK_DIM, usa48: US_DIM}}
 				outline={interpolate(f, [0, 50], [0, 1], {extrapolateRight: 'clamp'})}
 				outlineColor={C.gold}
@@ -33,7 +33,7 @@ const HookMap: React.FC<{question?: boolean}> = ({question}) => {
 				labels={[
 					{text: 'АЛЯСКА', lon: -152, lat: 64.5, at: 40, size: 44, dot: false, align: 'center'},
 					{text: 'Чукотка', lon: 172, lat: 66.5, at: 60, dot: false, color: C.mute, align: 'center'},
-					{text: 'Берингов пролив', lon: -169, lat: 65.9, at: 75, size: 20, color: C.gold, dot: false, align: 'center', italic: true},
+					{text: 'Берингов пролив', lon: -169, lat: 64.6, at: 75, size: 20, color: C.gold, dot: false, align: 'center', italic: true},
 					{text: 'Ситка', lon: PLACES.sitka[0], lat: PLACES.sitka[1], at: 90, size: 22},
 				]}
 				note="схема · границы современные"
@@ -50,7 +50,7 @@ const Disclaimer: React.FC = () => {
 			style={{
 				position: 'absolute',
 				left: 56,
-				bottom: 60,
+				top: 44,
 				padding: '12px 22px',
 				background: 'rgba(7,12,32,0.85)',
 				border: `1.5px solid ${C.gold}`,
