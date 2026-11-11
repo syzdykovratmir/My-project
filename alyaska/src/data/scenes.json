@@ -1,0 +1,13 @@
+[
+ {"id": "s01", "title": "Хук", "mode": "R", "lead": 1.2, "tail": 1.0, "music": "dreams"},
+ {"id": "s02", "title": "Заставка", "mode": "-", "fixed": 9.0, "music": "dreams"},
+ {"id": "s03", "title": "Как это было на самом деле", "mode": "R", "lead": 1.0, "tail": 1.5, "music": "dreams"},
+ {"id": "s04", "title": "Мифы", "mode": "R", "lead": 1.0, "tail": 1.2, "music": "dreams"},
+ {"id": "s05", "title": "Точка развилки", "mode": "RA", "lead": 3.0, "tail": 1.5, "music": "americana"},
+ {"id": "s06", "title": "Ветка 1: удержать Аляску", "mode": "A", "lead": 1.5, "tail": 1.2, "music": "americana"},
+ {"id": "s07", "title": "Ветка 2: золото и нефть", "mode": "A", "lead": 1.5, "tail": 1.2, "music": "americana"},
+ {"id": "s08", "title": "Ветка 3: XX век", "mode": "A", "lead": 1.5, "tail": 1.2, "music": "immersed"},
+ {"id": "s09", "title": "Ветка 4: люди и культура", "mode": "A", "lead": 1.5, "tail": 1.2, "music": "immersed"},
+ {"id": "s10", "title": "Итог", "mode": "-", "lead": 1.0, "tail": 2.0, "music": "immersed"},
+ {"id": "s11", "title": "Концовка", "mode": "-", "lead": 1.0, "tail": 6.0, "music": "immersed"}
+]

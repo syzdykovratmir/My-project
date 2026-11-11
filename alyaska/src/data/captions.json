@@ -1,0 +1,8116 @@
+{
+"s01": {
+"durationMs": 24960,
+"words": [
+{
+"text": "В",
+"startMs": 0,
+"endMs": 80,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "1867",
+"startMs": 160,
+"endMs": 1840,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "году",
+"startMs": 1920,
+"endMs": 2240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Россия",
+"startMs": 2480,
+"endMs": 2800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "продала",
+"startMs": 2880,
+"endMs": 3280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Аляску",
+"startMs": 3360,
+"endMs": 3840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Соединённым",
+"startMs": 3880,
+"endMs": 4480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Штатам",
+"startMs": 4560,
+"endMs": 4960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "за",
+"startMs": 5120,
+"endMs": 5280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "7,2 миллиона",
+"startMs": 5360,
+"endMs": 6960,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "долларов.",
+"startMs": 7120,
+"endMs": 7600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Меньше",
+"startMs": 8000,
+"endMs": 8320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "двух",
+"startMs": 8400,
+"endMs": 8640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "центов",
+"startMs": 8720,
+"endMs": 9120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "за",
+"startMs": 9200,
+"endMs": 9280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "акр.",
+"startMs": 9360,
+"endMs": 9760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Сегодня",
+"startMs": 10160,
+"endMs": 10640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "там",
+"startMs": 10720,
+"endMs": 10880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "нефть,",
+"startMs": 10960,
+"endMs": 11520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "золото",
+"startMs": 11600,
+"endMs": 12080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 12240,
+"endMs": 12320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "стратегическая",
+"startMs": 12400,
+"endMs": 13120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "база",
+"startMs": 13200,
+"endMs": 13520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "США.",
+"startMs": 13600,
+"endMs": 14400,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "Была",
+"startMs": 14640,
+"endMs": 14880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "ли",
+"startMs": 14920,
+"endMs": 14960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "эта",
+"startMs": 15040,
+"endMs": 15200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "сделка",
+"startMs": 15240,
+"endMs": 15600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "ошибкой?",
+"startMs": 15680,
+"endMs": 16400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "И",
+"startMs": 16560,
+"endMs": 16640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "что",
+"startMs": 16800,
+"endMs": 17040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "было",
+"startMs": 17120,
+"endMs": 17360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бы,",
+"startMs": 17440,
+"endMs": 17680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "если",
+"startMs": 17760,
+"endMs": 18000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бы",
+"startMs": 18080,
+"endMs": 18160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "её",
+"startMs": 18240,
+"endMs": 18400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "не",
+"startMs": 18440,
+"endMs": 18480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "случилось?",
+"startMs": 18560,
+"endMs": 19200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Сначала",
+"startMs": 19600,
+"endMs": 20000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "разберёмся,",
+"startMs": 20080,
+"endMs": 20720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "как",
+"startMs": 20773,
+"endMs": 20880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "всё",
+"startMs": 20960,
+"endMs": 21120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "было",
+"startMs": 21200,
+"endMs": 21360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "на",
+"startMs": 21440,
+"endMs": 21520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "самом",
+"startMs": 21600,
+"endMs": 21920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "деле,",
+"startMs": 22000,
+"endMs": 22480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "а",
+"startMs": 22520,
+"endMs": 22560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "потом",
+"startMs": 22640,
+"endMs": 22880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "посмотрим,",
+"startMs": 22920,
+"endMs": 23600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "что",
+"startMs": 23720,
+"endMs": 23840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "могло",
+"startMs": 23920,
+"endMs": 24160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бы",
+"startMs": 24240,
+"endMs": 24320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "быть.",
+"startMs": 24400,
+"endMs": 24960,
+"em": false,
+"paraEnd": true
+}
+]
+},
+"s03": {
+"durationMs": 147440,
+"words": [
+{
+"text": "Начнём",
+"startMs": 0,
+"endMs": 400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "с",
+"startMs": 480,
+"endMs": 560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "фактов.",
+"startMs": 600,
+"endMs": 1120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Русские",
+"startMs": 1520,
+"endMs": 1840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "мореплаватели",
+"startMs": 1920,
+"endMs": 2640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "вышли",
+"startMs": 2720,
+"endMs": 2960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "к",
+"startMs": 3000,
+"endMs": 3040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "берегам",
+"startMs": 3120,
+"endMs": 3440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Аляски",
+"startMs": 3520,
+"endMs": 4000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 4080,
+"endMs": 4160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "1741",
+"startMs": 4240,
+"endMs": 5680,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "году.",
+"startMs": 5760,
+"endMs": 6160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Это",
+"startMs": 6480,
+"endMs": 6640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "была",
+"startMs": 6680,
+"endMs": 6880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "экспедиция",
+"startMs": 6960,
+"endMs": 7600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Витуса",
+"startMs": 7680,
+"endMs": 8080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Беринга",
+"startMs": 8160,
+"endMs": 8560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 8720,
+"endMs": 8800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Алексея",
+"startMs": 8880,
+"endMs": 9360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Чирикова.",
+"startMs": 9440,
+"endMs": 10080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Следом",
+"startMs": 10480,
+"endMs": 10800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "пришли",
+"startMs": 10880,
+"endMs": 11200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "промышленники:",
+"startMs": 11480,
+"endMs": 12240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "их",
+"startMs": 12320,
+"endMs": 12400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "интересовал",
+"startMs": 12480,
+"endMs": 13040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "мех",
+"startMs": 13200,
+"endMs": 13360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "морской",
+"startMs": 13440,
+"endMs": 13840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "выдры,",
+"startMs": 13920,
+"endMs": 14480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "калана,",
+"startMs": 14600,
+"endMs": 15200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "который",
+"startMs": 15240,
+"endMs": 15600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "очень",
+"startMs": 15680,
+"endMs": 15920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "ценился",
+"startMs": 15960,
+"endMs": 16400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 16427,
+"endMs": 16453,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Китае.",
+"startMs": 16480,
+"endMs": 17160,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "В",
+"startMs": 17360,
+"endMs": 17440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "1784",
+"startMs": 17520,
+"endMs": 19280,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "году",
+"startMs": 19360,
+"endMs": 19600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Григорий",
+"startMs": 19840,
+"endMs": 20240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Шелихов",
+"startMs": 20320,
+"endMs": 20800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "основал",
+"startMs": 20960,
+"endMs": 21200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "первое",
+"startMs": 21440,
+"endMs": 21760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "постоянное",
+"startMs": 21840,
+"endMs": 22400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "поселение",
+"startMs": 22480,
+"endMs": 23040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "на",
+"startMs": 23120,
+"endMs": 23200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "острове",
+"startMs": 23280,
+"endMs": 23640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Кадьяк.",
+"startMs": 23680,
+"endMs": 24480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "А",
+"startMs": 24520,
+"endMs": 24560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 24640,
+"endMs": 24720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "1799",
+"startMs": 24800,
+"endMs": 26400,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "году",
+"startMs": 26480,
+"endMs": 26720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "император",
+"startMs": 26960,
+"endMs": 27440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Павел",
+"startMs": 27520,
+"endMs": 27760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Первый",
+"startMs": 27920,
+"endMs": 28240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "утвердил",
+"startMs": 28320,
+"endMs": 28800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Русско-американскую",
+"startMs": 29040,
+"endMs": 30080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "компанию.",
+"startMs": 30160,
+"endMs": 30880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Она",
+"startMs": 31040,
+"endMs": 31200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "получила",
+"startMs": 31240,
+"endMs": 31680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "монополию",
+"startMs": 31760,
+"endMs": 32320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "на",
+"startMs": 32400,
+"endMs": 32480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "промысел",
+"startMs": 32600,
+"endMs": 33040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 33120,
+"endMs": 33200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "фактически",
+"startMs": 33280,
+"endMs": 33920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "управляла",
+"startMs": 34000,
+"endMs": 34560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "колонией.",
+"startMs": 34640,
+"endMs": 35400,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "Главным",
+"startMs": 35600,
+"endMs": 35920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "правителем",
+"startMs": 36000,
+"endMs": 36480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Русской",
+"startMs": 36520,
+"endMs": 36800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Америки",
+"startMs": 36840,
+"endMs": 37280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "долгие",
+"startMs": 37440,
+"endMs": 37840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "годы",
+"startMs": 37920,
+"endMs": 38160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "был",
+"startMs": 38240,
+"endMs": 38400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Александр",
+"startMs": 38560,
+"endMs": 39120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Баранов.",
+"startMs": 39200,
+"endMs": 40000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Закрепиться",
+"startMs": 40240,
+"endMs": 40800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "на",
+"startMs": 40880,
+"endMs": 40960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "острове",
+"startMs": 41040,
+"endMs": 41360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Ситка",
+"startMs": 41440,
+"endMs": 41840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "удалось",
+"startMs": 41920,
+"endMs": 42320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "не",
+"startMs": 42400,
+"endMs": 42480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "сразу:",
+"startMs": 42520,
+"endMs": 43200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 43280,
+"endMs": 43360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "1802",
+"startMs": 43440,
+"endMs": 44480,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "году",
+"startMs": 44560,
+"endMs": 44800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "тлинкиты",
+"startMs": 44960,
+"endMs": 45600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "уничтожили",
+"startMs": 45640,
+"endMs": 46400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "первую",
+"startMs": 46520,
+"endMs": 46800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "русскую",
+"startMs": 46880,
+"endMs": 47200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "крепость,",
+"startMs": 47280,
+"endMs": 47920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 47960,
+"endMs": 48000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "только",
+"startMs": 48040,
+"endMs": 48240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 48320,
+"endMs": 48400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "1804",
+"startMs": 48480,
+"endMs": 49840,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "году",
+"startMs": 49920,
+"endMs": 50160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Баранов",
+"startMs": 50400,
+"endMs": 50880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "вернулся",
+"startMs": 51000,
+"endMs": 51520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 51600,
+"endMs": 51760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "построил",
+"startMs": 51840,
+"endMs": 52320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "новое",
+"startMs": 52440,
+"endMs": 52640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "укрепление.",
+"startMs": 52720,
+"endMs": 53520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Так",
+"startMs": 53680,
+"endMs": 53920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "появился",
+"startMs": 53960,
+"endMs": 54560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Ново-Архангельск,",
+"startMs": 54720,
+"endMs": 56000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "столица",
+"startMs": 56080,
+"endMs": 56560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Русской",
+"startMs": 56640,
+"endMs": 56960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Америки.",
+"startMs": 57040,
+"endMs": 57760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Сегодня",
+"startMs": 57920,
+"endMs": 58480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "это",
+"startMs": 58560,
+"endMs": 58720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "город",
+"startMs": 58800,
+"endMs": 59120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Ситка.",
+"startMs": 59200,
+"endMs": 59840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Компания",
+"startMs": 60080,
+"endMs": 60560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "дошла",
+"startMs": 60640,
+"endMs": 60880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "даже",
+"startMs": 60960,
+"endMs": 61200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "до",
+"startMs": 61240,
+"endMs": 61280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Калифорнии:",
+"startMs": 61360,
+"endMs": 62320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "там",
+"startMs": 62400,
+"endMs": 62640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 62720,
+"endMs": 62800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "1812",
+"startMs": 62880,
+"endMs": 64160,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "году",
+"startMs": 64240,
+"endMs": 64480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "появился",
+"startMs": 64640,
+"endMs": 65200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Форт-Росс.",
+"startMs": 65360,
+"endMs": 66280,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "Но",
+"startMs": 66480,
+"endMs": 66560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "проблемы",
+"startMs": 66640,
+"endMs": 67080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "накапливались.",
+"startMs": 67120,
+"endMs": 67920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Калана",
+"startMs": 68160,
+"endMs": 68560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "выбили,",
+"startMs": 68640,
+"endMs": 69280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 69320,
+"endMs": 69360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "доходы",
+"startMs": 69440,
+"endMs": 69800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "от",
+"startMs": 69840,
+"endMs": 69920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "меха",
+"startMs": 70000,
+"endMs": 70320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "упали.",
+"startMs": 70440,
+"endMs": 71000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "До",
+"startMs": 71200,
+"endMs": 71320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "колонии",
+"startMs": 71360,
+"endMs": 71760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "было",
+"startMs": 71840,
+"endMs": 72000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "очень",
+"startMs": 72240,
+"endMs": 72480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "далеко:",
+"startMs": 72560,
+"endMs": 73360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "грузы",
+"startMs": 73520,
+"endMs": 73760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "шли",
+"startMs": 73880,
+"endMs": 74000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "месяцами,",
+"startMs": 74080,
+"endMs": 74880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "через",
+"startMs": 74960,
+"endMs": 75120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Сибирь",
+"startMs": 75200,
+"endMs": 75680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "или",
+"startMs": 75760,
+"endMs": 75920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "вокруг",
+"startMs": 75960,
+"endMs": 76320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "света.",
+"startMs": 76360,
+"endMs": 76800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Русских",
+"startMs": 77200,
+"endMs": 77600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "там",
+"startMs": 77653,
+"endMs": 77760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "было",
+"startMs": 77800,
+"endMs": 78000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "мало,",
+"startMs": 78080,
+"endMs": 78640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "по",
+"startMs": 78680,
+"endMs": 78720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "разным",
+"startMs": 78800,
+"endMs": 79040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "оценкам",
+"startMs": 79200,
+"endMs": 79600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "несколько",
+"startMs": 79680,
+"endMs": 80160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "сотен",
+"startMs": 80280,
+"endMs": 80480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "человек,",
+"startMs": 80560,
+"endMs": 81200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "не",
+"startMs": 81280,
+"endMs": 81360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "больше",
+"startMs": 81440,
+"endMs": 81600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "800.",
+"startMs": 81680,
+"endMs": 82560,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "Под",
+"startMs": 82640,
+"endMs": 82720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "управлением",
+"startMs": 82800,
+"endMs": 83280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "компании",
+"startMs": 83360,
+"endMs": 83920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "жили",
+"startMs": 84000,
+"endMs": 84240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "около",
+"startMs": 84320,
+"endMs": 84560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "10 000",
+"startMs": 84720,
+"endMs": 85600,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "коренных",
+"startMs": 85680,
+"endMs": 86080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "жителей:",
+"startMs": 86160,
+"endMs": 86800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "алеутов,",
+"startMs": 86880,
+"endMs": 87440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "тлинкитов",
+"startMs": 87480,
+"endMs": 88160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 88200,
+"endMs": 88240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "других",
+"startMs": 88320,
+"endMs": 88640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "народов.",
+"startMs": 88720,
+"endMs": 89520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Компания",
+"startMs": 89600,
+"endMs": 90080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "всё",
+"startMs": 90160,
+"endMs": 90400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "чаще",
+"startMs": 90480,
+"endMs": 90800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "работала",
+"startMs": 90960,
+"endMs": 91280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 91320,
+"endMs": 91360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "убыток.",
+"startMs": 91440,
+"endMs": 92320,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "Потом",
+"startMs": 92400,
+"endMs": 92640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "случилась",
+"startMs": 92720,
+"endMs": 93200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Крымская",
+"startMs": 93280,
+"endMs": 93760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "война,",
+"startMs": 93840,
+"endMs": 94480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "1853–1856 годов.",
+"startMs": 94560,
+"endMs": 97920,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "В",
+"startMs": 98000,
+"endMs": 98040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "1854",
+"startMs": 98080,
+"endMs": 99760,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "году",
+"startMs": 99840,
+"endMs": 100240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "англо-французская",
+"startMs": 100320,
+"endMs": 101200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "эскадра",
+"startMs": 101280,
+"endMs": 101840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "атаковала",
+"startMs": 101920,
+"endMs": 102400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Петропавловск-Камчатский.",
+"startMs": 102480,
+"endMs": 104240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "В",
+"startMs": 104280,
+"endMs": 104320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Петербурге",
+"startMs": 104520,
+"endMs": 104960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "поняли:",
+"startMs": 105080,
+"endMs": 105760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "если",
+"startMs": 105840,
+"endMs": 106000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Британия",
+"startMs": 106080,
+"endMs": 106560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "захочет",
+"startMs": 106640,
+"endMs": 107040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "занять",
+"startMs": 107080,
+"endMs": 107360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Аляску,",
+"startMs": 107440,
+"endMs": 108160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "защитить",
+"startMs": 108360,
+"endMs": 108720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "её",
+"startMs": 108800,
+"endMs": 109040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "будет",
+"startMs": 109120,
+"endMs": 109360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "нечем.",
+"startMs": 109440,
+"endMs": 110080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "А",
+"startMs": 110120,
+"endMs": 110160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бюджет",
+"startMs": 110200,
+"endMs": 110560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "после",
+"startMs": 110640,
+"endMs": 110880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "войны",
+"startMs": 110960,
+"endMs": 111200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "был",
+"startMs": 111280,
+"endMs": 111400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 111440,
+"endMs": 111480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "дефиците.",
+"startMs": 111520,
+"endMs": 112400,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "Первым",
+"startMs": 112640,
+"endMs": 113040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "идею",
+"startMs": 113160,
+"endMs": 113440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "продажи",
+"startMs": 113640,
+"endMs": 113920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "высказал",
+"startMs": 114000,
+"endMs": 114400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "великий",
+"startMs": 114480,
+"endMs": 114880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "князь",
+"startMs": 114960,
+"endMs": 115240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Константин",
+"startMs": 115280,
+"endMs": 115840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Николаевич,",
+"startMs": 115920,
+"endMs": 116720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "брат",
+"startMs": 116760,
+"endMs": 116960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "императора.",
+"startMs": 117040,
+"endMs": 117800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "В",
+"startMs": 118000,
+"endMs": 118080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "1866",
+"startMs": 118160,
+"endMs": 119760,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "году",
+"startMs": 119840,
+"endMs": 120080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Александр",
+"startMs": 120240,
+"endMs": 120720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Второй",
+"startMs": 120800,
+"endMs": 121200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "одобрил",
+"startMs": 121280,
+"endMs": 121760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "её",
+"startMs": 121840,
+"endMs": 122080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "на",
+"startMs": 122160,
+"endMs": 122240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "особом",
+"startMs": 122400,
+"endMs": 122640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "совещании.",
+"startMs": 122720,
+"endMs": 123560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Переговоры",
+"startMs": 123760,
+"endMs": 124240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 124320,
+"endMs": 124347,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Вашингтоне",
+"startMs": 124373,
+"endMs": 125040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "вёл",
+"startMs": 125080,
+"endMs": 125280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "посланник",
+"startMs": 125360,
+"endMs": 125920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Эдуард",
+"startMs": 126000,
+"endMs": 126480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Стекль,",
+"startMs": 126560,
+"endMs": 127200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "с",
+"startMs": 127240,
+"endMs": 127280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "американской",
+"startMs": 127360,
+"endMs": 127840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "стороны",
+"startMs": 127920,
+"endMs": 128320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "государственный",
+"startMs": 128400,
+"endMs": 129120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "секретарь",
+"startMs": 129200,
+"endMs": 129680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Уильям",
+"startMs": 129840,
+"endMs": 130160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Сьюард.",
+"startMs": 130320,
+"endMs": 131000,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "Договор",
+"startMs": 131200,
+"endMs": 131600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "подписали",
+"startMs": 131680,
+"endMs": 132160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 132240,
+"endMs": 132320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "ночь",
+"startMs": 132400,
+"endMs": 132640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "на",
+"startMs": 132680,
+"endMs": 132720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "30 марта 1867",
+"startMs": 132800,
+"endMs": 135760,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "года.",
+"startMs": 135840,
+"endMs": 136400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "По",
+"startMs": 136440,
+"endMs": 136480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "старому",
+"startMs": 136560,
+"endMs": 136880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "стилю",
+"startMs": 136960,
+"endMs": 137360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "это",
+"startMs": 137400,
+"endMs": 137600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "18 марта.",
+"startMs": 137760,
+"endMs": 139280,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "В",
+"startMs": 139360,
+"endMs": 139400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "апреле",
+"startMs": 139440,
+"endMs": 139840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "его",
+"startMs": 139920,
+"endMs": 140080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "одобрил",
+"startMs": 140160,
+"endMs": 140560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Сенат",
+"startMs": 140640,
+"endMs": 141040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "США.",
+"startMs": 141200,
+"endMs": 142000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "А",
+"startMs": 142040,
+"endMs": 142080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "18 октября",
+"startMs": 142120,
+"endMs": 143360,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 143600,
+"endMs": 143640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Ситке",
+"startMs": 143680,
+"endMs": 144000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "спустили",
+"startMs": 144080,
+"endMs": 144560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "российский",
+"startMs": 144640,
+"endMs": 145200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "флаг",
+"startMs": 145280,
+"endMs": 145600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 145760,
+"endMs": 145840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "подняли",
+"startMs": 145920,
+"endMs": 146320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "американский.",
+"startMs": 146400,
+"endMs": 147440,
+"em": false,
+"paraEnd": true
+}
+]
+},
+"s04": {
+"durationMs": 53200,
+"words": [
+{
+"text": "Теперь",
+"startMs": 0,
+"endMs": 400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "о",
+"startMs": 480,
+"endMs": 560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "двух",
+"startMs": 640,
+"endMs": 880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "популярных",
+"startMs": 920,
+"endMs": 1520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "мифах.",
+"startMs": 1600,
+"endMs": 2200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Первый:",
+"startMs": 2400,
+"endMs": 3000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "будто",
+"startMs": 3200,
+"endMs": 3600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Аляску",
+"startMs": 3680,
+"endMs": 4080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "не",
+"startMs": 4160,
+"endMs": 4240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "продали,",
+"startMs": 4320,
+"endMs": 4960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "а",
+"startMs": 5040,
+"endMs": 5120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "сдали",
+"startMs": 5160,
+"endMs": 5440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 5480,
+"endMs": 5520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "аренду",
+"startMs": 5600,
+"endMs": 5920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "на",
+"startMs": 5960,
+"endMs": 6000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "99",
+"startMs": 6080,
+"endMs": 6720,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "лет,",
+"startMs": 6880,
+"endMs": 7280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 7320,
+"endMs": 7360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "сделала",
+"startMs": 7440,
+"endMs": 7920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "это",
+"startMs": 8000,
+"endMs": 8160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Екатерина",
+"startMs": 8320,
+"endMs": 8800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Вторая.",
+"startMs": 8840,
+"endMs": 9520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Это",
+"startMs": 9760,
+"endMs": 10000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "не",
+"startMs": 10240,
+"endMs": 10320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "подтверждается.",
+"startMs": 10400,
+"endMs": 11400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Екатерина",
+"startMs": 11600,
+"endMs": 12080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "умерла",
+"startMs": 12160,
+"endMs": 12480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 12560,
+"endMs": 12640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "1796",
+"startMs": 12720,
+"endMs": 14240,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "году,",
+"startMs": 14400,
+"endMs": 14800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "за",
+"startMs": 14880,
+"endMs": 15120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "семьдесят",
+"startMs": 15160,
+"endMs": 15600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "лет",
+"startMs": 15680,
+"endMs": 15840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "до",
+"startMs": 15920,
+"endMs": 16000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "сделки.",
+"startMs": 16040,
+"endMs": 16640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "А",
+"startMs": 16800,
+"endMs": 16840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 16880,
+"endMs": 16920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "договоре",
+"startMs": 16960,
+"endMs": 17440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "речь",
+"startMs": 17600,
+"endMs": 17800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "идёт",
+"startMs": 17840,
+"endMs": 18080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "об",
+"startMs": 18160,
+"endMs": 18240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "уступке",
+"startMs": 18360,
+"endMs": 18720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "территории,",
+"startMs": 18800,
+"endMs": 19520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "а",
+"startMs": 19600,
+"endMs": 19680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "не",
+"startMs": 19720,
+"endMs": 19760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "об",
+"startMs": 19840,
+"endMs": 19920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "аренде.",
+"startMs": 20000,
+"endMs": 20680,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "Второй",
+"startMs": 20960,
+"endMs": 21280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "миф:",
+"startMs": 21360,
+"endMs": 21920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Аляску",
+"startMs": 22000,
+"endMs": 22560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "продали",
+"startMs": 22720,
+"endMs": 23040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "за",
+"startMs": 23120,
+"endMs": 23200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бесценок.",
+"startMs": 23240,
+"endMs": 24120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "По",
+"startMs": 24320,
+"endMs": 24400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "меркам",
+"startMs": 24480,
+"endMs": 24720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "того",
+"startMs": 24800,
+"endMs": 25040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "времени",
+"startMs": 25160,
+"endMs": 25520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "это",
+"startMs": 25680,
+"endMs": 25840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "были",
+"startMs": 25880,
+"endMs": 26080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "заметные",
+"startMs": 26200,
+"endMs": 26640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "деньги.",
+"startMs": 26720,
+"endMs": 27320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Россия",
+"startMs": 27520,
+"endMs": 27840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "получила",
+"startMs": 27920,
+"endMs": 28320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "средства",
+"startMs": 28400,
+"endMs": 28880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 29040,
+"endMs": 29080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "избавилась",
+"startMs": 29120,
+"endMs": 29680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "от",
+"startMs": 29760,
+"endMs": 29840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "убыточной",
+"startMs": 29920,
+"endMs": 30400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "территории,",
+"startMs": 30480,
+"endMs": 31080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "которую",
+"startMs": 31120,
+"endMs": 31440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "почти",
+"startMs": 31520,
+"endMs": 31760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "невозможно",
+"startMs": 31840,
+"endMs": 32480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "было",
+"startMs": 32520,
+"endMs": 32640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "защитить.",
+"startMs": 32720,
+"endMs": 33480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Ценность",
+"startMs": 33680,
+"endMs": 34080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Аляски",
+"startMs": 34120,
+"endMs": 34480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "стала",
+"startMs": 34560,
+"endMs": 34800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "очевидна",
+"startMs": 34880,
+"endMs": 35360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "позже,",
+"startMs": 35440,
+"endMs": 36000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "когда",
+"startMs": 36040,
+"endMs": 36240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "там",
+"startMs": 36280,
+"endMs": 36400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "нашли",
+"startMs": 36480,
+"endMs": 36720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "золото,",
+"startMs": 36800,
+"endMs": 37440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "а",
+"startMs": 37480,
+"endMs": 37520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "затем",
+"startMs": 37560,
+"endMs": 37840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "нефть.",
+"startMs": 38160,
+"endMs": 38560,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "И",
+"startMs": 38960,
+"endMs": 39040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "ещё",
+"startMs": 39120,
+"endMs": 39360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "одна",
+"startMs": 39440,
+"endMs": 39600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "деталь:",
+"startMs": 39720,
+"endMs": 40320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "деньги",
+"startMs": 40480,
+"endMs": 40800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "пришли",
+"startMs": 40880,
+"endMs": 41200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "не",
+"startMs": 41360,
+"endMs": 41440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "сразу.",
+"startMs": 41520,
+"endMs": 42000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Палата",
+"startMs": 42240,
+"endMs": 42560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "представителей",
+"startMs": 42600,
+"endMs": 43200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "США",
+"startMs": 43280,
+"endMs": 43760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "одобрила",
+"startMs": 43920,
+"endMs": 44320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "выплату",
+"startMs": 44400,
+"endMs": 44800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "только",
+"startMs": 44840,
+"endMs": 45120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "летом",
+"startMs": 45200,
+"endMs": 45520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "1868",
+"startMs": 45600,
+"endMs": 47360,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "года,",
+"startMs": 47520,
+"endMs": 48080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 48160,
+"endMs": 48200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "тогда",
+"startMs": 48240,
+"endMs": 48560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "же",
+"startMs": 48640,
+"endMs": 48720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "казначейство",
+"startMs": 48880,
+"endMs": 49520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "выписало",
+"startMs": 49600,
+"endMs": 50000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "чек",
+"startMs": 50080,
+"endMs": 50320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "на",
+"startMs": 50400,
+"endMs": 50640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "7,2 млн",
+"startMs": 50680,
+"endMs": 52400,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "долларов.",
+"startMs": 52480,
+"endMs": 53200,
+"em": false,
+"paraEnd": true
+}
+]
+},
+"s05": {
+"durationMs": 31680,
+"words": [
+{
+"text": "А",
+"startMs": 0,
+"endMs": 80,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "теперь",
+"startMs": 120,
+"endMs": 480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "точка",
+"startMs": 640,
+"endMs": 960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "развилки.",
+"startMs": 1040,
+"endMs": 1680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Представим,",
+"startMs": 2080,
+"endMs": 2640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "что",
+"startMs": 2720,
+"endMs": 2880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "весной",
+"startMs": 2960,
+"endMs": 3360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "1867",
+"startMs": 3440,
+"endMs": 5040,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "года",
+"startMs": 5200,
+"endMs": 5440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "сделка",
+"startMs": 5680,
+"endMs": 6080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "сорвалась.",
+"startMs": 6160,
+"endMs": 6800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Например,",
+"startMs": 7200,
+"endMs": 7680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Сенат",
+"startMs": 7760,
+"endMs": 8080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "США",
+"startMs": 8240,
+"endMs": 8720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "проголосовал",
+"startMs": 8800,
+"endMs": 9440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "против,",
+"startMs": 9520,
+"endMs": 10160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "или",
+"startMs": 10280,
+"endMs": 10400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 10560,
+"endMs": 10600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Петербурге",
+"startMs": 10640,
+"endMs": 11120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "передумали.",
+"startMs": 11200,
+"endMs": 11840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Аляска",
+"startMs": 12240,
+"endMs": 12720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "осталась",
+"startMs": 12880,
+"endMs": 13440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "за",
+"startMs": 13520,
+"endMs": 13600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Россией.",
+"startMs": 13640,
+"endMs": 14480,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "Сразу",
+"startMs": 14800,
+"endMs": 15120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "честная",
+"startMs": 15280,
+"endMs": 15680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "оговорка:",
+"startMs": 15760,
+"endMs": 16480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "это",
+"startMs": 16560,
+"endMs": 16720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "не",
+"startMs": 16800,
+"endMs": 16880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "значит,",
+"startMs": 17040,
+"endMs": 17333,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "что",
+"startMs": 17387,
+"endMs": 17440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "она",
+"startMs": 17520,
+"endMs": 17680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "осталась",
+"startMs": 17800,
+"endMs": 18120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бы",
+"startMs": 18160,
+"endMs": 18240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "российской",
+"startMs": 18400,
+"endMs": 18720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "навсегда.",
+"startMs": 18800,
+"endMs": 19440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Дальше",
+"startMs": 20000,
+"endMs": 20240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "мы",
+"startMs": 20280,
+"endMs": 20320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "рассмотрим",
+"startMs": 20400,
+"endMs": 20800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "четыре",
+"startMs": 20880,
+"endMs": 21280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "ветки.",
+"startMs": 21360,
+"endMs": 21920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Каждая",
+"startMs": 22080,
+"endMs": 22400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "построена",
+"startMs": 22480,
+"endMs": 22960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "по",
+"startMs": 23000,
+"endMs": 23040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "схеме:",
+"startMs": 23120,
+"endMs": 23840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "если",
+"startMs": 23920,
+"endMs": 24160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "произошло",
+"startMs": 24280,
+"endMs": 24720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "одно,",
+"startMs": 24800,
+"endMs": 25440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "то",
+"startMs": 25520,
+"endMs": 25600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "вероятно",
+"startMs": 25680,
+"endMs": 26080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "другое,",
+"startMs": 26160,
+"endMs": 26800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 26880,
+"endMs": 26960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "вот",
+"startMs": 27040,
+"endMs": 27200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "почему.",
+"startMs": 27280,
+"endMs": 28000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Где",
+"startMs": 28320,
+"endMs": 28480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "факты,",
+"startMs": 28560,
+"endMs": 29040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "а",
+"startMs": 29080,
+"endMs": 29120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "где",
+"startMs": 29160,
+"endMs": 29280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "предположения,",
+"startMs": 29360,
+"endMs": 30320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "будем",
+"startMs": 30400,
+"endMs": 30560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "говорить",
+"startMs": 30640,
+"endMs": 30880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "прямо.",
+"startMs": 31040,
+"endMs": 31680,
+"em": false,
+"paraEnd": true
+}
+]
+},
+"s06": {
+"durationMs": 73760,
+"words": [
+{
+"text": "Ветка",
+"startMs": 0,
+"endMs": 400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "первая.",
+"startMs": 480,
+"endMs": 1040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Смогла",
+"startMs": 1440,
+"endMs": 1760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бы",
+"startMs": 1800,
+"endMs": 1840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Россия",
+"startMs": 1920,
+"endMs": 2320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "удержать",
+"startMs": 2400,
+"endMs": 2880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Аляску?",
+"startMs": 2960,
+"endMs": 3520,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "Посмотрим",
+"startMs": 3840,
+"endMs": 4320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "на",
+"startMs": 4360,
+"endMs": 4400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "ограничения.",
+"startMs": 4480,
+"endMs": 5280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Финансы:",
+"startMs": 5680,
+"endMs": 6400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "после",
+"startMs": 6720,
+"endMs": 6960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Крымской",
+"startMs": 7040,
+"endMs": 7360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "войны",
+"startMs": 7440,
+"endMs": 7760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "казна",
+"startMs": 7920,
+"endMs": 8320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "была",
+"startMs": 8360,
+"endMs": 8560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 8600,
+"endMs": 8640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "долгах,",
+"startMs": 8760,
+"endMs": 9360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "а",
+"startMs": 9400,
+"endMs": 9440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "впереди",
+"startMs": 9480,
+"endMs": 9920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "были",
+"startMs": 10000,
+"endMs": 10160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "дорогие",
+"startMs": 10240,
+"endMs": 10640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "реформы,",
+"startMs": 10720,
+"endMs": 11280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "включая",
+"startMs": 11320,
+"endMs": 11840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "отмену",
+"startMs": 11960,
+"endMs": 12280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "крепостного",
+"startMs": 12320,
+"endMs": 12880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "права.",
+"startMs": 12960,
+"endMs": 13520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Флот:",
+"startMs": 13760,
+"endMs": 14560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "на",
+"startMs": 14600,
+"endMs": 14640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Тихом",
+"startMs": 14720,
+"endMs": 14960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "океане",
+"startMs": 15040,
+"endMs": 15440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "у",
+"startMs": 15480,
+"endMs": 15520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "России",
+"startMs": 15600,
+"endMs": 16000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "было",
+"startMs": 16040,
+"endMs": 16240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "лишь",
+"startMs": 16320,
+"endMs": 16480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "несколько",
+"startMs": 16560,
+"endMs": 16960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "кораблей,",
+"startMs": 17040,
+"endMs": 17760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "а",
+"startMs": 17800,
+"endMs": 17840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "ближайшие",
+"startMs": 17920,
+"endMs": 18400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "базы",
+"startMs": 18440,
+"endMs": 18680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "находились",
+"startMs": 18720,
+"endMs": 19200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "далеко,",
+"startMs": 19280,
+"endMs": 19920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "на",
+"startMs": 19960,
+"endMs": 20000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Камчатке",
+"startMs": 20080,
+"endMs": 20720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 20760,
+"endMs": 20800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 20840,
+"endMs": 20880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Приморье.",
+"startMs": 20920,
+"endMs": 21520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Население:",
+"startMs": 21920,
+"endMs": 22960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "несколько",
+"startMs": 23040,
+"endMs": 23440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "сотен",
+"startMs": 23520,
+"endMs": 23840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "русских",
+"startMs": 23920,
+"endMs": 24240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "на",
+"startMs": 24320,
+"endMs": 24400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "территории",
+"startMs": 24440,
+"endMs": 24880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "больше",
+"startMs": 24960,
+"endMs": 25280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "1,5 млн км².",
+"startMs": 25360,
+"endMs": 27800,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "И",
+"startMs": 28000,
+"endMs": 28080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "соседи:",
+"startMs": 28240,
+"endMs": 29040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "с",
+"startMs": 29120,
+"endMs": 29200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "юга",
+"startMs": 29280,
+"endMs": 29520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "британские",
+"startMs": 29680,
+"endMs": 30240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "владения,",
+"startMs": 30360,
+"endMs": 30960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "где",
+"startMs": 31040,
+"endMs": 31200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 31240,
+"endMs": 31280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "1867",
+"startMs": 31360,
+"endMs": 32800,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "году",
+"startMs": 32880,
+"endMs": 33120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "как",
+"startMs": 33440,
+"endMs": 33600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "раз",
+"startMs": 33680,
+"endMs": 33840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "появился",
+"startMs": 33880,
+"endMs": 34400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "доминион",
+"startMs": 34440,
+"endMs": 34880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Канада,",
+"startMs": 34960,
+"endMs": 35760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "а",
+"startMs": 35800,
+"endMs": 35840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "рядом",
+"startMs": 35920,
+"endMs": 36240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "быстро",
+"startMs": 36400,
+"endMs": 36720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "растущие",
+"startMs": 36800,
+"endMs": 37360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Соединённые",
+"startMs": 37440,
+"endMs": 38000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Штаты.",
+"startMs": 38080,
+"endMs": 38720,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "Отсюда",
+"startMs": 38960,
+"endMs": 39440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "три",
+"startMs": 39600,
+"endMs": 39760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "вероятных",
+"startMs": 39840,
+"endMs": 40400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "сценария.",
+"startMs": 40440,
+"endMs": 41040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Первый:",
+"startMs": 41440,
+"endMs": 42160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "перепродажа",
+"startMs": 42200,
+"endMs": 42800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "позже.",
+"startMs": 42960,
+"endMs": 43440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Например,",
+"startMs": 43680,
+"endMs": 44080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "через",
+"startMs": 44160,
+"endMs": 44320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "двадцать",
+"startMs": 44400,
+"endMs": 44880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "или",
+"startMs": 45000,
+"endMs": 45120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "тридцать",
+"startMs": 45160,
+"endMs": 45440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "лет,",
+"startMs": 45520,
+"endMs": 45920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "когда",
+"startMs": 45960,
+"endMs": 46160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "ценность",
+"startMs": 46240,
+"endMs": 46640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "региона",
+"startMs": 46720,
+"endMs": 47040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "стала",
+"startMs": 47120,
+"endMs": 47360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бы",
+"startMs": 47440,
+"endMs": 47520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "понятнее,",
+"startMs": 47640,
+"endMs": 48320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и,",
+"startMs": 48360,
+"endMs": 48480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "возможно,",
+"startMs": 48560,
+"endMs": 48960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "дороже.",
+"startMs": 49120,
+"endMs": 49440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Второй:",
+"startMs": 49840,
+"endMs": 50640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "потеря",
+"startMs": 50720,
+"endMs": 51000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "территории",
+"startMs": 51040,
+"endMs": 51520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 51600,
+"endMs": 51640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "войне",
+"startMs": 51680,
+"endMs": 52080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "или",
+"startMs": 52240,
+"endMs": 52400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "под",
+"startMs": 52480,
+"endMs": 52560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "давлением,",
+"startMs": 52640,
+"endMs": 53360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "скорее",
+"startMs": 53480,
+"endMs": 53680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "всего",
+"startMs": 53720,
+"endMs": 54000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "со",
+"startMs": 54080,
+"endMs": 54160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "стороны",
+"startMs": 54200,
+"endMs": 54480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Британии",
+"startMs": 54560,
+"endMs": 55120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "или",
+"startMs": 55200,
+"endMs": 55360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "США.",
+"startMs": 55440,
+"endMs": 56160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Третий,",
+"startMs": 56400,
+"endMs": 56960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "самый",
+"startMs": 57120,
+"endMs": 57360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "дорогой:",
+"startMs": 57440,
+"endMs": 58320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Россия",
+"startMs": 58360,
+"endMs": 58720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "вкладывается",
+"startMs": 58800,
+"endMs": 59440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 59467,
+"endMs": 59493,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "освоение,",
+"startMs": 59520,
+"endMs": 60240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "строит",
+"startMs": 60360,
+"endMs": 60720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "порты",
+"startMs": 60840,
+"endMs": 61200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 61240,
+"endMs": 61280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "завозит",
+"startMs": 61360,
+"endMs": 61760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "переселенцев.",
+"startMs": 61840,
+"endMs": 62640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Для",
+"startMs": 62960,
+"endMs": 63120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "этого",
+"startMs": 63160,
+"endMs": 63360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "нужны",
+"startMs": 63400,
+"endMs": 63680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "были",
+"startMs": 63720,
+"endMs": 63840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "деньги",
+"startMs": 64000,
+"endMs": 64320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 64400,
+"endMs": 64560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "люди,",
+"startMs": 64640,
+"endMs": 65120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "которых",
+"startMs": 65160,
+"endMs": 65520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "не",
+"startMs": 65560,
+"endMs": 65600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "хватало",
+"startMs": 65720,
+"endMs": 66080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "даже",
+"startMs": 66160,
+"endMs": 66360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 66400,
+"endMs": 66440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Сибири.",
+"startMs": 66480,
+"endMs": 67160,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "Какой",
+"startMs": 67360,
+"endMs": 67600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "сценарий",
+"startMs": 67680,
+"endMs": 68080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "вероятнее,",
+"startMs": 68160,
+"endMs": 68880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "однозначно",
+"startMs": 68960,
+"endMs": 69600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "сказать",
+"startMs": 69640,
+"endMs": 70000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "нельзя.",
+"startMs": 70040,
+"endMs": 70480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Но",
+"startMs": 70800,
+"endMs": 70960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "первые",
+"startMs": 71080,
+"endMs": 71280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "два",
+"startMs": 71360,
+"endMs": 71600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "выглядят",
+"startMs": 71760,
+"endMs": 72160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "реалистичнее",
+"startMs": 72240,
+"endMs": 72960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "третьего.",
+"startMs": 73040,
+"endMs": 73760,
+"em": false,
+"paraEnd": true
+}
+]
+},
+"s07": {
+"durationMs": 78160,
+"words": [
+{
+"text": "Ветка",
+"startMs": 0,
+"endMs": 400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "вторая.",
+"startMs": 440,
+"endMs": 1200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Золото",
+"startMs": 1440,
+"endMs": 1840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 2080,
+"endMs": 2160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "нефть.",
+"startMs": 2240,
+"endMs": 2960,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "В",
+"startMs": 3280,
+"endMs": 3360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "1896",
+"startMs": 3440,
+"endMs": 5120,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "году",
+"startMs": 5200,
+"endMs": 5520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "на",
+"startMs": 5680,
+"endMs": 5760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "реке",
+"startMs": 5840,
+"endMs": 6040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Клондайк",
+"startMs": 6080,
+"endMs": 6800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "нашли",
+"startMs": 6880,
+"endMs": 7200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "золото.",
+"startMs": 7280,
+"endMs": 7760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Важная",
+"startMs": 8240,
+"endMs": 8560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "деталь:",
+"startMs": 8640,
+"endMs": 9280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Клондайк",
+"startMs": 9360,
+"endMs": 9840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "находится",
+"startMs": 9920,
+"endMs": 10320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 10360,
+"endMs": 10400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Канаде,",
+"startMs": 10480,
+"endMs": 11040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "а",
+"startMs": 11080,
+"endMs": 11120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "не",
+"startMs": 11200,
+"endMs": 11280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "на",
+"startMs": 11320,
+"endMs": 11360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Аляске.",
+"startMs": 11400,
+"endMs": 12200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "На",
+"startMs": 12480,
+"endMs": 12560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "север",
+"startMs": 12640,
+"endMs": 12960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "отправились",
+"startMs": 13040,
+"endMs": 13520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "около",
+"startMs": 13600,
+"endMs": 13840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "100 000",
+"startMs": 14000,
+"endMs": 14640,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "человек,",
+"startMs": 14720,
+"endMs": 15440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "а",
+"startMs": 15520,
+"endMs": 15600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "до",
+"startMs": 15640,
+"endMs": 15680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "цели",
+"startMs": 15760,
+"endMs": 16000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "добрались,",
+"startMs": 16040,
+"endMs": 16560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "по",
+"startMs": 16640,
+"endMs": 16680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "разным",
+"startMs": 16720,
+"endMs": 16960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "оценкам,",
+"startMs": 17040,
+"endMs": 17600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "лишь",
+"startMs": 17680,
+"endMs": 17840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "тридцать",
+"startMs": 17920,
+"endMs": 18320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "или",
+"startMs": 18400,
+"endMs": 18640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "сорок",
+"startMs": 18720,
+"endMs": 18960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "тысяч.",
+"startMs": 19040,
+"endMs": 19840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Но",
+"startMs": 19867,
+"endMs": 19920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "путь",
+"startMs": 20080,
+"endMs": 20240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "туда",
+"startMs": 20320,
+"endMs": 20560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "для",
+"startMs": 20640,
+"endMs": 20720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "большинства",
+"startMs": 20800,
+"endMs": 21200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "старателей",
+"startMs": 21280,
+"endMs": 21840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "лежал",
+"startMs": 21920,
+"endMs": 22240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "через",
+"startMs": 22320,
+"endMs": 22560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Аляску,",
+"startMs": 22600,
+"endMs": 23280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "через",
+"startMs": 23320,
+"endMs": 23520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "порт",
+"startMs": 23600,
+"endMs": 23760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Скагуэй",
+"startMs": 23840,
+"endMs": 24400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 24480,
+"endMs": 24560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "перевал",
+"startMs": 24640,
+"endMs": 24960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Чилкут.",
+"startMs": 25120,
+"endMs": 25800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "А",
+"startMs": 26000,
+"endMs": 26080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "вскоре",
+"startMs": 26120,
+"endMs": 26480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "золото",
+"startMs": 26640,
+"endMs": 27000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "нашли",
+"startMs": 27040,
+"endMs": 27360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 27400,
+"endMs": 27440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "на",
+"startMs": 27520,
+"endMs": 27560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "самой",
+"startMs": 27600,
+"endMs": 27920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Аляске:",
+"startMs": 28000,
+"endMs": 28720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 28760,
+"endMs": 28800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Номе",
+"startMs": 28880,
+"endMs": 29200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 29360,
+"endMs": 29440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 29480,
+"endMs": 29520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Фэрбанксе.",
+"startMs": 29600,
+"endMs": 30240,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "В",
+"startMs": 30720,
+"endMs": 30800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "альтернативной",
+"startMs": 30840,
+"endMs": 31440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "истории",
+"startMs": 31520,
+"endMs": 32000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "всё",
+"startMs": 32080,
+"endMs": 32240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "это",
+"startMs": 32320,
+"endMs": 32480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "происходит",
+"startMs": 32520,
+"endMs": 33040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "на",
+"startMs": 33080,
+"endMs": 33120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "российской",
+"startMs": 33320,
+"endMs": 33680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "земле",
+"startMs": 33760,
+"endMs": 34080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "или",
+"startMs": 34320,
+"endMs": 34480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "у",
+"startMs": 34560,
+"endMs": 34640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "самой",
+"startMs": 34720,
+"endMs": 35040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "её",
+"startMs": 35120,
+"endMs": 35280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "границы.",
+"startMs": 35360,
+"endMs": 36120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Десятки",
+"startMs": 36320,
+"endMs": 36800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "тысяч",
+"startMs": 36880,
+"endMs": 37200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "старателей,",
+"startMs": 37280,
+"endMs": 38000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 38027,
+"endMs": 38053,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "основном",
+"startMs": 38080,
+"endMs": 38480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "американцев",
+"startMs": 38560,
+"endMs": 39200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 39240,
+"endMs": 39280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "канадцев,",
+"startMs": 39360,
+"endMs": 39920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "идут",
+"startMs": 40000,
+"endMs": 40320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "через",
+"startMs": 40400,
+"endMs": 40640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "русскую",
+"startMs": 40720,
+"endMs": 41040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "территорию.",
+"startMs": 41120,
+"endMs": 41920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Сможет",
+"startMs": 42160,
+"endMs": 42480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "ли",
+"startMs": 42560,
+"endMs": 42640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "небольшая",
+"startMs": 42680,
+"endMs": 43200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "администрация",
+"startMs": 43280,
+"endMs": 44080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "удержать",
+"startMs": 44160,
+"endMs": 44560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "контроль?",
+"startMs": 44640,
+"endMs": 45120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Или",
+"startMs": 45440,
+"endMs": 45600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "регион",
+"startMs": 45760,
+"endMs": 46160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "начнёт",
+"startMs": 46280,
+"endMs": 46560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "жить",
+"startMs": 46680,
+"endMs": 46800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "по",
+"startMs": 46840,
+"endMs": 46880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "своим",
+"startMs": 46960,
+"endMs": 47280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "правилам?",
+"startMs": 47360,
+"endMs": 47840,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "С",
+"startMs": 48320,
+"endMs": 48400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "нефтью",
+"startMs": 48480,
+"endMs": 49040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "ещё",
+"startMs": 49160,
+"endMs": 49360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "сложнее.",
+"startMs": 49440,
+"endMs": 50120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Крупнейшее",
+"startMs": 50320,
+"endMs": 50800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "месторождение,",
+"startMs": 50880,
+"endMs": 51840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Прудо-Бей",
+"startMs": 51920,
+"endMs": 52400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "на",
+"startMs": 52480,
+"endMs": 52560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Северном",
+"startMs": 52640,
+"endMs": 52960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "склоне,",
+"startMs": 53040,
+"endMs": 53520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "открыли",
+"startMs": 53760,
+"endMs": 54160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 54200,
+"endMs": 54240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "1968",
+"startMs": 54320,
+"endMs": 55920,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "году.",
+"startMs": 56000,
+"endMs": 56520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Чтобы",
+"startMs": 56720,
+"endMs": 56960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "его",
+"startMs": 57040,
+"endMs": 57120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "разрабатывать,",
+"startMs": 57200,
+"endMs": 58000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "построили",
+"startMs": 58080,
+"endMs": 58480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "нефтепровод",
+"startMs": 58560,
+"endMs": 59200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "длиной",
+"startMs": 59240,
+"endMs": 59600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "почти",
+"startMs": 59720,
+"endMs": 59920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "1300 км,",
+"startMs": 60080,
+"endMs": 61840,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "через",
+"startMs": 61920,
+"endMs": 62080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "горы",
+"startMs": 62240,
+"endMs": 62560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 62720,
+"endMs": 62760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "вечную",
+"startMs": 62800,
+"endMs": 63200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "мерзлоту.",
+"startMs": 63280,
+"endMs": 63840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Его",
+"startMs": 64240,
+"endMs": 64400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "закончили",
+"startMs": 64480,
+"endMs": 64960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 65000,
+"endMs": 65040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "1977",
+"startMs": 65120,
+"endMs": 66640,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "году.",
+"startMs": 66800,
+"endMs": 67280,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "Получила",
+"startMs": 67520,
+"endMs": 68000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бы",
+"startMs": 68040,
+"endMs": 68080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "эти",
+"startMs": 68120,
+"endMs": 68240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "богатства",
+"startMs": 68320,
+"endMs": 68720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Россия?",
+"startMs": 68800,
+"endMs": 69520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Только",
+"startMs": 69760,
+"endMs": 70080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "если",
+"startMs": 70160,
+"endMs": 70320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бы",
+"startMs": 70400,
+"endMs": 70480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "сохранила",
+"startMs": 70560,
+"endMs": 71040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Аляску",
+"startMs": 71120,
+"endMs": 71520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "до",
+"startMs": 71600,
+"endMs": 71680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "второй",
+"startMs": 71720,
+"endMs": 71920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "половины",
+"startMs": 72080,
+"endMs": 72400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "двадцатого",
+"startMs": 72480,
+"endMs": 73040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "века.",
+"startMs": 73120,
+"endMs": 73520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "И",
+"startMs": 73840,
+"endMs": 73920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "только",
+"startMs": 74080,
+"endMs": 74400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "если",
+"startMs": 74480,
+"endMs": 74720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бы",
+"startMs": 74760,
+"endMs": 74800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "смогла",
+"startMs": 74880,
+"endMs": 75200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "их",
+"startMs": 75280,
+"endMs": 75360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "освоить.",
+"startMs": 75440,
+"endMs": 76320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "А",
+"startMs": 76360,
+"endMs": 76400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "это",
+"startMs": 76480,
+"endMs": 76720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "большой",
+"startMs": 76960,
+"endMs": 77360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "вопрос.",
+"startMs": 77440,
+"endMs": 78160,
+"em": false,
+"paraEnd": true
+}
+]
+},
+"s08": {
+"durationMs": 68720,
+"words": [
+{
+"text": "Ветка",
+"startMs": 0,
+"endMs": 400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "третья.",
+"startMs": 560,
+"endMs": 1120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Двадцатый",
+"startMs": 1440,
+"endMs": 2000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "век.",
+"startMs": 2080,
+"endMs": 2400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Здесь",
+"startMs": 2800,
+"endMs": 3120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "предположений",
+"startMs": 3200,
+"endMs": 3920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "больше",
+"startMs": 4000,
+"endMs": 4320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "всего.",
+"startMs": 4360,
+"endMs": 4880,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "1917",
+"startMs": 5440,
+"endMs": 6800,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "год.",
+"startMs": 6880,
+"endMs": 7200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Революция,",
+"startMs": 7520,
+"endMs": 8320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "затем",
+"startMs": 8400,
+"endMs": 8640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Гражданская",
+"startMs": 8720,
+"endMs": 9280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "война.",
+"startMs": 9360,
+"endMs": 9960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "На",
+"startMs": 10160,
+"endMs": 10240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Дальний",
+"startMs": 10280,
+"endMs": 10480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Восток",
+"startMs": 10560,
+"endMs": 10960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 10987,
+"endMs": 11013,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "это",
+"startMs": 11040,
+"endMs": 11120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "время",
+"startMs": 11200,
+"endMs": 11493,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "высаживаются",
+"startMs": 11547,
+"endMs": 12160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "японские",
+"startMs": 12240,
+"endMs": 12880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 12960,
+"endMs": 13040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "американские",
+"startMs": 13120,
+"endMs": 13840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "войска.",
+"startMs": 13920,
+"endMs": 14400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Далёкая",
+"startMs": 14800,
+"endMs": 15200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Аляска",
+"startMs": 15280,
+"endMs": 15760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "могла",
+"startMs": 15813,
+"endMs": 16000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бы",
+"startMs": 16040,
+"endMs": 16080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "стать",
+"startMs": 16160,
+"endMs": 16400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "оплотом",
+"startMs": 16520,
+"endMs": 16960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "белых,",
+"startMs": 17040,
+"endMs": 17600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "отдельным",
+"startMs": 17680,
+"endMs": 18080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "государством",
+"startMs": 18120,
+"endMs": 18800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "или",
+"startMs": 19120,
+"endMs": 19280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "оказаться",
+"startMs": 19400,
+"endMs": 19760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "под",
+"startMs": 19840,
+"endMs": 20000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "иностранным",
+"startMs": 20080,
+"endMs": 20560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "контролем.",
+"startMs": 20640,
+"endMs": 21200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "А",
+"startMs": 21520,
+"endMs": 21600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "могла",
+"startMs": 21640,
+"endMs": 21920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "остаться",
+"startMs": 22000,
+"endMs": 22320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 22360,
+"endMs": 22400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "составе",
+"startMs": 22440,
+"endMs": 22840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Советской",
+"startMs": 22880,
+"endMs": 23280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "России.",
+"startMs": 23360,
+"endMs": 24040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Однозначного",
+"startMs": 24240,
+"endMs": 24960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "ответа",
+"startMs": 25120,
+"endMs": 25360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "нет.",
+"startMs": 25440,
+"endMs": 25760,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "Если",
+"startMs": 26160,
+"endMs": 26400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Аляска",
+"startMs": 26480,
+"endMs": 26880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "стала",
+"startMs": 26960,
+"endMs": 27200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "советской,",
+"startMs": 27280,
+"endMs": 28080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Вторая",
+"startMs": 28120,
+"endMs": 28400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "мировая",
+"startMs": 28480,
+"endMs": 28880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "выглядела",
+"startMs": 28960,
+"endMs": 29440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бы",
+"startMs": 29520,
+"endMs": 29600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "иначе.",
+"startMs": 29680,
+"endMs": 30360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "В",
+"startMs": 30640,
+"endMs": 30680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "реальности",
+"startMs": 30720,
+"endMs": 31280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "по",
+"startMs": 31440,
+"endMs": 31520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "ленд-лизу",
+"startMs": 31640,
+"endMs": 32160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "по",
+"startMs": 32320,
+"endMs": 32400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "маршруту",
+"startMs": 32480,
+"endMs": 32880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Аляска",
+"startMs": 32960,
+"endMs": 33440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Сибирь,",
+"startMs": 33520,
+"endMs": 34000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "через",
+"startMs": 34080,
+"endMs": 34240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Фэрбанкс",
+"startMs": 34320,
+"endMs": 34800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 34840,
+"endMs": 34880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Чукотку,",
+"startMs": 34960,
+"endMs": 35760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "перегнали",
+"startMs": 35800,
+"endMs": 36240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "около",
+"startMs": 36320,
+"endMs": 36560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "8000",
+"startMs": 36640,
+"endMs": 37440,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "самолётов.",
+"startMs": 37480,
+"endMs": 38280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "В",
+"startMs": 38480,
+"endMs": 38560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "альтернативной",
+"startMs": 38600,
+"endMs": 39200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "версии",
+"startMs": 39280,
+"endMs": 39760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "этот",
+"startMs": 39840,
+"endMs": 40080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "путь",
+"startMs": 40160,
+"endMs": 40320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "целиком",
+"startMs": 40360,
+"endMs": 40800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "проходил",
+"startMs": 40880,
+"endMs": 41280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бы",
+"startMs": 41360,
+"endMs": 41440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "по",
+"startMs": 41480,
+"endMs": 41520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "советской",
+"startMs": 41640,
+"endMs": 42000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "территории.",
+"startMs": 42080,
+"endMs": 42880,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "А",
+"startMs": 43120,
+"endMs": 43200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "потом",
+"startMs": 43280,
+"endMs": 43520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "холодная",
+"startMs": 43760,
+"endMs": 44240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "война.",
+"startMs": 44320,
+"endMs": 44720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "В",
+"startMs": 45120,
+"endMs": 45200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "реальности",
+"startMs": 45280,
+"endMs": 45760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "граница",
+"startMs": 45800,
+"endMs": 46160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "проходит",
+"startMs": 46240,
+"endMs": 46640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "по",
+"startMs": 46680,
+"endMs": 46720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Берингову",
+"startMs": 46800,
+"endMs": 47240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "проливу,",
+"startMs": 47280,
+"endMs": 47840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "между",
+"startMs": 47960,
+"endMs": 48080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "островами",
+"startMs": 48160,
+"endMs": 48560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Диомида.",
+"startMs": 48640,
+"endMs": 49200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Большой",
+"startMs": 49600,
+"endMs": 49920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Диомид",
+"startMs": 49960,
+"endMs": 50320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "российский,",
+"startMs": 50520,
+"endMs": 51120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Малый",
+"startMs": 51200,
+"endMs": 51440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "американский.",
+"startMs": 51600,
+"endMs": 52480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Между",
+"startMs": 52640,
+"endMs": 52880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "ними",
+"startMs": 52960,
+"endMs": 53200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "меньше",
+"startMs": 53280,
+"endMs": 53600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "4 км.",
+"startMs": 53680,
+"endMs": 54840,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "В",
+"startMs": 55040,
+"endMs": 55120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "альтернативе",
+"startMs": 55200,
+"endMs": 55840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "у",
+"startMs": 56000,
+"endMs": 56080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Советского",
+"startMs": 56120,
+"endMs": 56480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Союза",
+"startMs": 56640,
+"endMs": 56960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "появилась",
+"startMs": 57040,
+"endMs": 57440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бы",
+"startMs": 57520,
+"endMs": 57600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "сухопутная",
+"startMs": 57640,
+"endMs": 58320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "граница",
+"startMs": 58360,
+"endMs": 58760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "с",
+"startMs": 58800,
+"endMs": 58880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Канадой,",
+"startMs": 58920,
+"endMs": 59680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "на",
+"startMs": 59720,
+"endMs": 59760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "одном",
+"startMs": 59840,
+"endMs": 60080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "континенте",
+"startMs": 60160,
+"endMs": 60720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "с",
+"startMs": 60800,
+"endMs": 60880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "США.",
+"startMs": 60960,
+"endMs": 61520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Как",
+"startMs": 62000,
+"endMs": 62080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "изменились",
+"startMs": 62160,
+"endMs": 62640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бы",
+"startMs": 62680,
+"endMs": 62720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "военные",
+"startMs": 62800,
+"endMs": 63280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "базы,",
+"startMs": 63360,
+"endMs": 63840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "ракетная",
+"startMs": 63920,
+"endMs": 64320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "оборона,",
+"startMs": 64400,
+"endMs": 65040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Карибский",
+"startMs": 65120,
+"endMs": 65520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "кризис?",
+"startMs": 65600,
+"endMs": 66280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Это",
+"startMs": 66480,
+"endMs": 66640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "уже",
+"startMs": 66720,
+"endMs": 66960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "чистые",
+"startMs": 67200,
+"endMs": 67520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "предположения.",
+"startMs": 67600,
+"endMs": 68720,
+"em": false,
+"paraEnd": true
+}
+]
+},
+"s09": {
+"durationMs": 49280,
+"words": [
+{
+"text": "Ветка",
+"startMs": 0,
+"endMs": 480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "четвёртая.",
+"startMs": 640,
+"endMs": 1520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Люди",
+"startMs": 1760,
+"endMs": 2080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 2240,
+"endMs": 2320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "культура.",
+"startMs": 2400,
+"endMs": 3440,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "Даже",
+"startMs": 3920,
+"endMs": 4160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "спустя",
+"startMs": 4240,
+"endMs": 4560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "полтора",
+"startMs": 4640,
+"endMs": 5040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "века",
+"startMs": 5120,
+"endMs": 5440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "после",
+"startMs": 5520,
+"endMs": 5760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "продажи",
+"startMs": 5840,
+"endMs": 6320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "русский",
+"startMs": 6560,
+"endMs": 6880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "след",
+"startMs": 7040,
+"endMs": 7200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "на",
+"startMs": 7240,
+"endMs": 7280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Аляске",
+"startMs": 7360,
+"endMs": 7760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "заметен.",
+"startMs": 7840,
+"endMs": 8400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Там",
+"startMs": 8800,
+"endMs": 8960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "до",
+"startMs": 9000,
+"endMs": 9040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "сих",
+"startMs": 9120,
+"endMs": 9360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "пор",
+"startMs": 9440,
+"endMs": 9520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "действуют",
+"startMs": 9600,
+"endMs": 10080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "православные",
+"startMs": 10160,
+"endMs": 10720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "приходы:",
+"startMs": 10800,
+"endMs": 11520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "среди",
+"startMs": 11560,
+"endMs": 11840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "алеутов,",
+"startMs": 11920,
+"endMs": 12640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "юпиков",
+"startMs": 12720,
+"endMs": 13200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 13280,
+"endMs": 13360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "тлинкитов.",
+"startMs": 13440,
+"endMs": 14320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "В",
+"startMs": 14560,
+"endMs": 14600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Ситке",
+"startMs": 14640,
+"endMs": 14960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "стоит",
+"startMs": 15080,
+"endMs": 15280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "собор",
+"startMs": 15400,
+"endMs": 15600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Святого",
+"startMs": 15680,
+"endMs": 16000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Михаила,",
+"startMs": 16080,
+"endMs": 16880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "а",
+"startMs": 16920,
+"endMs": 16960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "на",
+"startMs": 17000,
+"endMs": 17040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Уналашке",
+"startMs": 17120,
+"endMs": 17680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "церковь",
+"startMs": 17840,
+"endMs": 18200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Вознесения",
+"startMs": 18240,
+"endMs": 18880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Господня.",
+"startMs": 18960,
+"endMs": 19760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Остались",
+"startMs": 20000,
+"endMs": 20480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 20520,
+"endMs": 20560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "русские",
+"startMs": 20640,
+"endMs": 20960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "названия",
+"startMs": 21040,
+"endMs": 21440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "на",
+"startMs": 21520,
+"endMs": 21600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "картах.",
+"startMs": 21680,
+"endMs": 22160,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "Многое",
+"startMs": 22560,
+"endMs": 22960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "здесь",
+"startMs": 23000,
+"endMs": 23200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "связано",
+"startMs": 23240,
+"endMs": 23680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "с",
+"startMs": 23720,
+"endMs": 23760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "миссионерами.",
+"startMs": 23800,
+"endMs": 24760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Например,",
+"startMs": 24960,
+"endMs": 25520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "священник",
+"startMs": 25560,
+"endMs": 26160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Иоанн",
+"startMs": 26240,
+"endMs": 26520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Вениаминов",
+"startMs": 26560,
+"endMs": 27280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "вместе",
+"startMs": 27440,
+"endMs": 27760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "с",
+"startMs": 27840,
+"endMs": 27880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "местными",
+"startMs": 27920,
+"endMs": 28240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "помощниками",
+"startMs": 28320,
+"endMs": 28960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "создал",
+"startMs": 29200,
+"endMs": 29520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "письменность",
+"startMs": 29600,
+"endMs": 30160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "для",
+"startMs": 30240,
+"endMs": 30320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "алеутского",
+"startMs": 30400,
+"endMs": 30880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "языка",
+"startMs": 30960,
+"endMs": 31360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 31520,
+"endMs": 31600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "перевёл",
+"startMs": 31680,
+"endMs": 32040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "на",
+"startMs": 32080,
+"endMs": 32160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "него",
+"startMs": 32280,
+"endMs": 32400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "часть",
+"startMs": 32480,
+"endMs": 32800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Евангелия.",
+"startMs": 32880,
+"endMs": 33520,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "В",
+"startMs": 34000,
+"endMs": 34080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "альтернативной",
+"startMs": 34160,
+"endMs": 34800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "истории",
+"startMs": 34920,
+"endMs": 35280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "русских",
+"startMs": 35520,
+"endMs": 35840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "переселенцев",
+"startMs": 35920,
+"endMs": 36560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "было",
+"startMs": 36640,
+"endMs": 36800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бы",
+"startMs": 36880,
+"endMs": 36960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "больше,",
+"startMs": 37040,
+"endMs": 37680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "а",
+"startMs": 37760,
+"endMs": 37800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "языком",
+"startMs": 37840,
+"endMs": 38240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "администрации",
+"startMs": 38280,
+"endMs": 39120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "остался",
+"startMs": 39240,
+"endMs": 39600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бы",
+"startMs": 39680,
+"endMs": 39760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "русский.",
+"startMs": 39840,
+"endMs": 40440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Но",
+"startMs": 40640,
+"endMs": 40800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "судьба",
+"startMs": 40960,
+"endMs": 41280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "коренных",
+"startMs": 41360,
+"endMs": 41680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "народов",
+"startMs": 41760,
+"endMs": 42240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "зависела",
+"startMs": 42320,
+"endMs": 42720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бы",
+"startMs": 42800,
+"endMs": 42880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "от",
+"startMs": 42960,
+"endMs": 43040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "политики",
+"startMs": 43200,
+"endMs": 43520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "империи,",
+"startMs": 43600,
+"endMs": 44400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "а",
+"startMs": 44440,
+"endMs": 44480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "затем,",
+"startMs": 44560,
+"endMs": 45040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "возможно,",
+"startMs": 45120,
+"endMs": 45760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "от",
+"startMs": 45840,
+"endMs": 45920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "советской",
+"startMs": 46000,
+"endMs": 46480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "политики.",
+"startMs": 46600,
+"endMs": 47200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Как",
+"startMs": 47440,
+"endMs": 47600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "именно,",
+"startMs": 47680,
+"endMs": 48320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "мы",
+"startMs": 48400,
+"endMs": 48480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "не",
+"startMs": 48520,
+"endMs": 48560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "знаем.",
+"startMs": 48640,
+"endMs": 49280,
+"em": false,
+"paraEnd": true
+}
+]
+},
+"s10": {
+"durationMs": 34160,
+"words": [
+{
+"text": "Подведём",
+"startMs": 0,
+"endMs": 400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "итог.",
+"startMs": 480,
+"endMs": 960,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "Почти",
+"startMs": 1440,
+"endMs": 1760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "наверняка:",
+"startMs": 1800,
+"endMs": 2480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "удерживать",
+"startMs": 2880,
+"endMs": 3440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Аляску",
+"startMs": 3520,
+"endMs": 4000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "было",
+"startMs": 4080,
+"endMs": 4240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бы",
+"startMs": 4320,
+"endMs": 4480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "очень",
+"startMs": 4560,
+"endMs": 4880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "трудно",
+"startMs": 4960,
+"endMs": 5360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 5440,
+"endMs": 5520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "дорого.",
+"startMs": 5600,
+"endMs": 6080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Империи",
+"startMs": 6400,
+"endMs": 6880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "не",
+"startMs": 6920,
+"endMs": 6960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "хватало",
+"startMs": 7040,
+"endMs": 7440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "денег,",
+"startMs": 7520,
+"endMs": 8080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "флота",
+"startMs": 8120,
+"endMs": 8640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 8680,
+"endMs": 8720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "людей.",
+"startMs": 8800,
+"endMs": 9480,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "Возможно:",
+"startMs": 9760,
+"endMs": 10400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Россия",
+"startMs": 10800,
+"endMs": 11200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "продала",
+"startMs": 11280,
+"endMs": 11600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бы",
+"startMs": 11680,
+"endMs": 11760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "её",
+"startMs": 11840,
+"endMs": 12080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "позже",
+"startMs": 12160,
+"endMs": 12640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "или",
+"startMs": 12800,
+"endMs": 12960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "потеряла",
+"startMs": 13120,
+"endMs": 13520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бы",
+"startMs": 13600,
+"endMs": 13680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 13720,
+"endMs": 13760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "конфликте",
+"startMs": 13840,
+"endMs": 14240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "с",
+"startMs": 14267,
+"endMs": 14293,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Британией",
+"startMs": 14320,
+"endMs": 15040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "или",
+"startMs": 15160,
+"endMs": 15280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "США.",
+"startMs": 15360,
+"endMs": 16120,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "Неизвестно:",
+"startMs": 16400,
+"endMs": 17520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "какая",
+"startMs": 17560,
+"endMs": 17840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "судьба",
+"startMs": 17920,
+"endMs": 18240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "ждала",
+"startMs": 18320,
+"endMs": 18640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бы",
+"startMs": 18680,
+"endMs": 18720,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "регион",
+"startMs": 18920,
+"endMs": 19120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 19200,
+"endMs": 19240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "двадцатом",
+"startMs": 19280,
+"endMs": 19760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "веке,",
+"startMs": 19920,
+"endMs": 20400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 20440,
+"endMs": 20480,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "революцию,",
+"startMs": 20560,
+"endMs": 21280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "мировую",
+"startMs": 21320,
+"endMs": 21680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "войну",
+"startMs": 21760,
+"endMs": 22240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "и",
+"startMs": 22320,
+"endMs": 22400,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "холодную",
+"startMs": 22480,
+"endMs": 22960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "войну.",
+"startMs": 23040,
+"endMs": 23640,
+"em": false,
+"paraEnd": true
+},
+{
+"text": "И",
+"startMs": 23920,
+"endMs": 24000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "главное.",
+"startMs": 24160,
+"endMs": 24760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "В",
+"startMs": 24960,
+"endMs": 25040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "1867",
+"startMs": 25120,
+"endMs": 26720,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "году",
+"startMs": 26800,
+"endMs": 27120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "решение",
+"startMs": 27360,
+"endMs": 27760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "принимали",
+"startMs": 27840,
+"endMs": 28240,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "люди,",
+"startMs": 28320,
+"endMs": 28600,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "которые",
+"startMs": 28640,
+"endMs": 29040,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "не",
+"startMs": 29120,
+"endMs": 29200,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "знали",
+"startMs": 29280,
+"endMs": 29520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "ни",
+"startMs": 29680,
+"endMs": 29760,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "про",
+"startMs": 29840,
+"endMs": 30000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "золото,",
+"startMs": 30200,
+"endMs": 30640,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "ни",
+"startMs": 30720,
+"endMs": 30800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "про",
+"startMs": 30880,
+"endMs": 30960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "нефть.",
+"startMs": 31040,
+"endMs": 31680,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Они",
+"startMs": 31760,
+"endMs": 31920,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "решали",
+"startMs": 32000,
+"endMs": 32320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "задачи",
+"startMs": 32440,
+"endMs": 32960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "своего",
+"startMs": 33013,
+"endMs": 33360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "времени.",
+"startMs": 33440,
+"endMs": 34160,
+"em": false,
+"paraEnd": true
+}
+]
+},
+"s11": {
+"durationMs": 13440,
+"words": [
+{
+"text": "А",
+"startMs": 0,
+"endMs": 80,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "как",
+"startMs": 160,
+"endMs": 440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "думаете",
+"startMs": 480,
+"endMs": 880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "вы:",
+"startMs": 960,
+"endMs": 1280,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "продажа",
+"startMs": 1600,
+"endMs": 2000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Аляски",
+"startMs": 2080,
+"endMs": 2560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "была",
+"startMs": 2640,
+"endMs": 2800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "ошибкой?",
+"startMs": 2880,
+"endMs": 3440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Пишите",
+"startMs": 3760,
+"endMs": 4080,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 4120,
+"endMs": 4160,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "комментариях.",
+"startMs": 4200,
+"endMs": 4880,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "В",
+"startMs": 5280,
+"endMs": 5360,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "следующем",
+"startMs": 5480,
+"endMs": 5840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "видео:",
+"startMs": 5920,
+"endMs": 6320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "что,",
+"startMs": 6640,
+"endMs": 6960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "если",
+"startMs": 7120,
+"endMs": 7320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "бы",
+"startMs": 7360,
+"endMs": 7440,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Германия",
+"startMs": 7520,
+"endMs": 8000,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "взяла",
+"startMs": 8080,
+"endMs": 8320,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Москву",
+"startMs": 8400,
+"endMs": 8800,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "в",
+"startMs": 8880,
+"endMs": 8960,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "1941",
+"startMs": 9040,
+"endMs": 10480,
+"em": true,
+"paraEnd": false
+},
+{
+"text": "году.",
+"startMs": 10560,
+"endMs": 11120,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "Это",
+"startMs": 11360,
+"endMs": 11520,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "была",
+"startMs": 11560,
+"endMs": 11840,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "«Другая",
+"startMs": 12160,
+"endMs": 12560,
+"em": false,
+"paraEnd": false
+},
+{
+"text": "история».",
+"startMs": 12640,
+"endMs": 13440,
+"em": false,
+"paraEnd": true
+}
+]
+}
+}
