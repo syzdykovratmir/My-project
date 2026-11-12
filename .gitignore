@@ -2,3 +2,4 @@ node_modules/
 alyaska/node_modules/
 alyaska/out/*.mp4
 .DS_Store
+alyaska/out/shorts/
