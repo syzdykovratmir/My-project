@@ -5,11 +5,13 @@ import {Background, FilmGrain} from './components/Overlay';
 import {CAPTIONS, FPS, scene} from './timeline';
 import {C, montserrat, playfair} from './theme';
 import {Scene01} from './scenes/Scene01';
+import {Scene03} from './scenes/Scene03';
 import {Scene04} from './scenes/Scene04';
 import {Scene07} from './scenes/Scene07';
 import {Scene08} from './scenes/Scene08';
+import {Scene09} from './scenes/Scene09';
 
-const SCENE_COMPONENTS: Record<string, React.FC> = {s01: Scene01, s04: Scene04, s07: Scene07, s08: Scene08};
+const SCENE_COMPONENTS: Record<string, React.FC> = {s01: Scene01, s03: Scene03, s04: Scene04, s07: Scene07, s08: Scene08, s09: Scene09};
 const MUSIC: Record<string, {file: string; gain: number}> = {
 	dreams: {file: 'audio/dreams_become_real.mp3', gain: 0.17},
 	americana: {file: 'audio/americana.mp3', gain: 0.075},
@@ -136,5 +138,19 @@ export const SHORTS: ShortDef[] = [
 		title: 'Золото Клондайка и русская Аляска',
 		music: 'americana',
 		segments: [{scene: 's07', fromMs: 3280, toMs: 47840}],
+	},
+	{
+		id: 'Short4',
+		kicker: 'Другая История · факты',
+		title: 'Почему Россия продала Аляску',
+		music: 'dreams',
+		segments: [{scene: 's03', fromMs: 92400, toMs: 147440}],
+	},
+	{
+		id: 'Short5',
+		kicker: 'Другая История · факты',
+		title: 'Русский след на Аляске сегодня',
+		music: 'dreams',
+		segments: [{scene: 's09', fromMs: 1760, toMs: 49280}],
 	},
 ];
