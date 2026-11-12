@@ -3,8 +3,7 @@ import {spring, useCurrentFrame, useVideoConfig} from 'remotion';
 import {C, montserrat} from '../theme';
 import type {Word} from '../timeline';
 
-const MAX = 42;
-const fits = (txt: string[]) => {
+const fits = (txt: string[], MAX: number) => {
 	if (txt.join(' ').length <= MAX) return true;
 	for (let k = 1; k < txt.length; k++) {
 		if (Math.max(txt.slice(0, k).join(' ').length, txt.slice(k).join(' ').length) <= MAX) return true;
@@ -13,17 +12,17 @@ const fits = (txt: string[]) => {
 };
 
 /** Same paging rules as scripts/build_timeline.py (SRT export). */
-export const makePages = (words: Word[]): Word[][] => {
+export const makePages = (words: Word[], MAX = 42): Word[][] => {
 	const res: Word[][] = [];
 	let cur: Word[] = [];
 	for (const w of words) {
-		if (cur.length && !fits([...cur, w].map((x) => x.text))) {
+		if (cur.length && !fits([...cur, w].map((x) => x.text), MAX)) {
 			res.push(cur);
 			cur = [];
 		}
 		cur.push(w);
 		const len = cur.map((x) => x.text).join(' ').length;
-		if (w.paraEnd || (/[.?!]$/.test(w.text) && len > 38)) {
+		if (w.paraEnd || (/[.?!]$/.test(w.text) && len > MAX - 4)) {
 			res.push(cur);
 			cur = [];
 		}
@@ -32,7 +31,7 @@ export const makePages = (words: Word[]): Word[][] => {
 	return res;
 };
 
-const splitLines = (ws: Word[]): Word[][] => {
+const splitLines = (ws: Word[], MAX: number): Word[][] => {
 	const txt = ws.map((w) => w.text);
 	if (txt.join(' ').length <= MAX) return [ws];
 	let best = 1;
@@ -51,10 +50,15 @@ const splitLines = (ws: Word[]): Word[][] => {
  * Karaoke subtitles, bottom centre. Current word gold, numbers/dates red & bold,
  * dark rounded backing, spring entrance per page. Frame 0 = narration start.
  */
-export const Subtitles: React.FC<{words: Word[]}> = ({words}) => {
+export const Subtitles: React.FC<{words: Word[]; maxChars?: number; fontSize?: number; bottom?: number}> = ({
+	words,
+	maxChars = 42,
+	fontSize = 46,
+	bottom = 56,
+}) => {
 	const frame = useCurrentFrame();
 	const {fps} = useVideoConfig();
-	const pages = useMemo(() => makePages(words), [words]);
+	const pages = useMemo(() => makePages(words, maxChars), [words, maxChars]);
 	const ms = (frame / fps) * 1000;
 	let idx = -1;
 	for (let i = 0; i < pages.length; i++) {
@@ -68,7 +72,7 @@ export const Subtitles: React.FC<{words: Word[]}> = ({words}) => {
 	const enterFrame = frame - Math.round(((page[0].startMs - 60) / 1000) * fps);
 	const e = spring({frame: enterFrame, fps, config: {damping: 15, stiffness: 180, mass: 0.6}});
 	return (
-		<div style={{position: 'absolute', left: 0, right: 0, bottom: 56, display: 'flex', justifyContent: 'center'}}>
+		<div style={{position: 'absolute', left: 0, right: 0, bottom, display: 'flex', justifyContent: 'center'}}>
 			<div
 				style={{
 					background: 'rgba(7, 12, 32, 0.82)',
@@ -80,7 +84,7 @@ export const Subtitles: React.FC<{words: Word[]}> = ({words}) => {
 					maxWidth: 1500,
 				}}
 			>
-				{splitLines(page).map((line, li) => (
+				{splitLines(page, maxChars).map((line, li) => (
 					<div key={li} style={{textAlign: 'center', lineHeight: 1.28, whiteSpace: 'nowrap'}}>
 						{line.map((w, wi) => {
 							const active = ms >= w.startMs - 40 && ms < w.endMs + 80;
@@ -90,7 +94,7 @@ export const Subtitles: React.FC<{words: Word[]}> = ({words}) => {
 									key={wi}
 									style={{
 										fontFamily: montserrat,
-										fontSize: 46,
+										fontSize,
 										fontWeight: w.em ? 800 : 700,
 										color,
 										display: 'inline-block',
